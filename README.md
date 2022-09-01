@@ -2,7 +2,7 @@
 Um slider de imagens utilizado para treinar os fundamentos de HTML, CSS e Javascript
 
 <a href="https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Slider-Design.md">Ideia</a>
-
+Preview: https://oeleomar.github.io/image-slider/
 # Slider Design
 
 **Tier:** 1-Beginner
