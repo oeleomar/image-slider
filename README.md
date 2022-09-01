@@ -1,2 +1,21 @@
 # image-slider
 Um slider de imagens utilizado para treinar os fundamentos de HTML, CSS e Javascript
+
+<a href="https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Slider-Design.md">Ideia</a>
+
+# Slider Design
+
+**Tier:** 1-Beginner
+
+Display multiple images using a slider / carousel.
+
+## User Stories
+
+-   [ ] User can see a slider displaying multiple images every `x` seconds
+-   [ ] User can click on `previous` and `next` buttons and the slider will display the corresponding image
+
+## Bonus features
+
+-   [ ] Add animation to the slides
+-   [ ] Add text over the slides
+-   [ ] Create a 3D effect
