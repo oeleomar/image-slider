@@ -11,11 +11,11 @@ Display multiple images using a slider / carousel.
 
 ## User Stories
 
--   [ ] User can see a slider displaying multiple images every `x` seconds
--   [ ] User can click on `previous` and `next` buttons and the slider will display the corresponding image
+-   [X] User can see a slider displaying multiple images every `x` seconds
+-   [X] User can click on `previous` and `next` buttons and the slider will display the corresponding image
 
 ## Bonus features
 
--   [ ] Add animation to the slides
--   [ ] Add text over the slides
+-   [X] Add animation to the slides
+-   [X] Add text over the slides
 -   [ ] Create a 3D effect
